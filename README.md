@@ -1,16 +1,16 @@
 ### Hi there 👋
+##
+### Eu me chamo Flávia :smiling_face_with_three_hearts:
+### Nordestina :cactus:
+### Graduanda em Engenharia de Computação :woman_technologist:
+### Técnica em Informática para Internet  :woman_student:
+##
+## My skills:
+ <img src = https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt = "rails" width = "60" height = "60" stlye = "max-width:100%;"></img>
+ <img src = https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg alt = "rails" width = "60" height = "60" stlye = "max-width:100%;"></img>
+ <img src = https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt = "rails" width = "60" height = "60" stlye = "max-width:100%;"></img>
+ 
+ 
+![flaviap'b GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviapb&theme=nord)
 
-<!--
-**flaviapb/flaviapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviapb)](https://github.com/flaviapb/github-readme-stats)
