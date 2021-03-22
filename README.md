@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+<p align="center">
 <img src="https://i.imgur.com/B1eEMUg.png" width = "700" height = "300" alt="imagem">
 
 
