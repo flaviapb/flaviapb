@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+<img src="https://i.imgur.com/B1eEMUg.png" width = "650" height = "400" text-align  alt="imagem">
+
+
 ##
 ### Eu me chamo Flávia :smiling_face_with_three_hearts:
 ### Nordestina :cactus:
