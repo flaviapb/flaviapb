@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <p align="center">
-<img src="blob:https://imgur.com/21d49926-c1a8-49e4-af8c-1d6f0f0e2f00"width = "700" height = "300" alt="imagem">
+<img src="https://i.imgur.com/X8eOxRD.png"width = "700" height = "300" alt="imagem">
 
 
 ##
