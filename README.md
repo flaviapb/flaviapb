@@ -6,7 +6,6 @@
 ##
 ### Eu me chamo Flávia :smiling_face_with_three_hearts:
 ### Nordestina :cactus:
-### Graduanda em Engenharia de Computação :woman_technologist:
 ### Técnica em Informática para Internet  :woman_student:
 ##
 ## My skills:
