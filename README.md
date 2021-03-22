@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img src="https://i.imgur.com/B1eEMUg.png" width = "650" height = "400" text-align  alt="imagem">
+<img src="https://i.imgur.com/B1eEMUg.png" width = "700" height = "300" alt="imagem">
 
 
 ##
