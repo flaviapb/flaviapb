@@ -16,6 +16,6 @@
  <img src = https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt = "rails" width = "60" height = "60" stlye = "max-width:100%;"></img>
 ##
  
-![flaviap'b GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviapb&theme=nord)
+![flaviap'b GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviapb&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviapb)](https://github.com/flaviapb/github-readme-stats)
