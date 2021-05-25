@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Git and GitHub.</strong>
 </p>
 
 <p align="left">
