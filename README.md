@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/AhKc0KK.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, meu nome é Flavia Renata. Sou <strong>Estudante do 2º periodo do curso "Engenharia de computação</strong>, tenho 19 anos e quero me tornar uma desenvolvedora front end.
+  Olá, meu nome é Flavia Renata. Sou <strong>Estudante do 2º periodo do curso "Engenharia de computação</strong>, tenho 19 anos e quero me tornar uma desenvolvedora Full-Stack.
 </p>
 
 <p align="left">
