@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades/Estudando no momento: <strong>HTML, CSS, Python, C. </strong>
+  🦄 Habilidades/Estudando no momento: <strong>HTML, CSS, Python, C, Java. </strong>
 </p>
 
 <p align="left">
