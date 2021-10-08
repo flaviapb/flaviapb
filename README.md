@@ -1,7 +1,7 @@
 <img src= "https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" min-width="300px" max-width="300px" width="250px" align="right" alt="Coelho falando olá">
 
 <p align="left"> 
-  Olá, meu nome é Flavia Renata. Sou <strong>Estudante do 2º periodo do curso "Engenharia de computação</strong>, tenho 19 anos e quero me tornar uma desenvolvedora Full-Stack.
+  Olá, meu nome é Flavia Renata. Sou <strong>Estudante do 2º periodo do curso <strong>"Engenharia de computação"</strong>, tenho 19 anos e quero me tornar uma desenvolvedora Full-Stack.
 </p>
 
 <p align="left">
